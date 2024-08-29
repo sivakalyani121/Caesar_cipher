@@ -1,13 +1,13 @@
 # **Caesar Cipher Program**
 This Python program provides a simple implementation of the Caesar Cipher, a basic encryption technique where each letter in the plaintext is shifted by a certain number of positions down the alphabet.
 
-**Features**
+# **Features**
 Encrypt a Message: Convert your plaintext message into a cipher text by shifting each letter by a specified number of positions.
 Decrypt a Message: Convert your cipher text back into plaintext by reversing the shift.
 User Interaction: The program allows users to continuously encrypt or decrypt messages until they choose to exit.
 
-**How to Use?**
-Choose an Operation:
+# **How to Use?**
+# Choose an Operation:
 Type 'encrypt' for encryption.
 Type 'decrypt' for decryption.
 Enter Your Message:
